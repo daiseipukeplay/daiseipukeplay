@@ -1,4 +1,4 @@
-## Hi there 👋
+i like visual novels
 
 <!--
 **daiseipukeplay/daiseipukeplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
