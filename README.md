@@ -1,5 +1,6 @@
 i like visual novels
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0odjbnmouw7rob1epa7hn9w3q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=true&profanity=false&hide_remaster=false&bar_color=ffbb6e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **daiseipukeplay/daiseipukeplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
