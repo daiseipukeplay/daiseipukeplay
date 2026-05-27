@@ -1,7 +1,7 @@
 <p align="center">
 
 <p align="center"
-
+<br><sup><img src="https://komarev.com/ghpvc/?username=daiseipukeplay&color=ffa455&label=nosy+people">
 <br> i like visual novels
 <br> feel free to hmu with any recs
 <br> 
