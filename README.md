@@ -4,8 +4,6 @@
 
   <br><sup><img src="https://komarev.com/ghpvc/?username=daiseipukeplay&color=ffa455&label=nosy+people">
 <br>
-<br><img width="375" height="250" alt="Screenshot 2026-05-27 184003" src="https://github.com/user-attachments/assets/4da09163-2e84-42e1-9fd8-37c0e6d5bad5" />
-<br>
 <br> i like visual novels
 <br> feel free to hmu with any recs
 <br>
